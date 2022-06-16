@@ -27,4 +27,4 @@ Project #4 - [Real-time chat](https://github.com/JohnZoidy/frontend-project-lvl4
 
 ### My own projects:
 
-[Тестовое задание Frontend intern в Mindbox](https://github.com/JohnZoidy/mindbox-test){:target="_blank"}. Simple ToDo application - test task for intern position in [Mindbox](https://mindbox.ru/){:target="_blank"}.
+[Test task at Frontend intern in Mindbox](/testTasks/mindbox/index.html){:target="_blank"}. Simple ToDo application - test task for intern position in [Mindbox](https://mindbox.ru/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/mindbox-test){:target="_blank"}
