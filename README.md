@@ -28,3 +28,5 @@ Project #4 - [Real-time chat](https://github.com/JohnZoidy/frontend-project-lvl4
 ### My own projects:
 
 [Test task at Frontend intern in Mindbox](/testTasks/mindbox/index.html){:target="_blank"}. Simple ToDo application - test task for intern position in [Mindbox](https://mindbox.ru/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/mindbox-test){:target="_blank"}
+
+[Test task at Frontend junior in FunBox](/testTasks/funbox/index.html){:target="_blank"}. Cards with adaptive landing, based on React, HTML and CSS - test task for junior position in [FunBox](https://funbox.ru/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/FunBox-test){:target="_blank"}
