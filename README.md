@@ -30,3 +30,5 @@ Project #4 - [Real-time chat](https://github.com/JohnZoidy/frontend-project-lvl4
 [Test task at Frontend intern in Mindbox](/testTasks/mindbox/index.html){:target="_blank"}. Simple ToDo application - test task for intern position in [Mindbox](https://mindbox.ru/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/mindbox-test){:target="_blank"}
 
 [Test task at Frontend junior in FunBox](/testTasks/funbox/index.html){:target="_blank"}. Cards with adaptive landing, based on React, HTML and CSS - test task for junior position in [FunBox](https://funbox.ru/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/FunBox-test){:target="_blank"}
+
+[Test task at Junior Frontend Developer (React) in Jupiter-soft](/testTasks/jupiter-soft/index.html){:target="_blank"}. Cards with adaptive landing, based on React, HTML and CSS with sort and delete possibilities - test task for junior position in [Jupiter-soft](https://jupiter-soft.com/){:target="_blank"}. [Code on GitHub](https://github.com/JohnZoidy/Jupiter-soft-test){:target="_blank"}
